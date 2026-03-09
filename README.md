@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mahesh Goud! 👋
+ 🎓 Fresh Graduate | Cybersecurity Enthusiast 
+ 📍 India
 
-<!--
-**maheshgoud-262/maheshgoud-262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 🙋 About Me
+ 
+- 🌱 I'm currently learning **[cyber security]**
+- 💻 I'm passionate about **cyber security  / SOC analyst / network engineer
+- 🎯 Looking for my first opportunity as a cyber security analyst
+- 📧 Reach me at: [maheshchitaluri3@gmail.com](mailto:maheshchitaluri3@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  🛠️ Skills & Technologies
+  
+   **Languages:** Python | SQL
+   **Tools:**  Nmap | Wireshark | Burp Suite  | Github | VS code |
+   **Currently Learning:** - Ethical Hacking 
+                           - Network Security
+                           - Web Application Security (OWASP Top 10)
+                           - SOC Analyst Skills
+                           - CEH / CompTIA Security+ (if studying for certs)
+
+
+
+
+
+
+
+  
