@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning **[cyber security]**
 - 💻 I'm passionate about **cyber security  / SOC analyst / network engineer
 - 🎯 Looking for my first opportunity as a cyber security analyst
-- 📧 Reach me at: [maheshchitaluri3@gmail.com](mailto:maheshchitaluri3@gmail.com)
+- 📧 Reach me at: [maheshchithaluri3@gmail.com](mailto:maheshchithaluri3@gmail.com)
 
 
   🛠️ Skills & Technologies
