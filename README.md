@@ -50,16 +50,6 @@ I'm a cybersecurity enthusiast building my foundation in networking, Linux, secu
 <tr>
 <td width="50%" valign="top">
 
-### Linux & Apache Deployment
-
-Deployed an Apache web server in a Linux lab and configured a custom webpage.
-
-**Technologies**
-
-`Linux` `Apache` `Networking` `UFW`
-
-</td>
-<td width="50%" valign="top">
 
 ### Multi Purpose Agriculture Robot
 
