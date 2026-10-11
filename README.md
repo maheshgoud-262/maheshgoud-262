@@ -64,6 +64,22 @@ An agriculture-focused robotics project exploring technology-based solutions for
 <tr>
 <td width="50%" valign="top">
 
+<tr>
+<td width="50%" valign="top">
+
+### AI-Powered Cybersecurity Threat Detection
+
+An AI-powered cybersecurity project concept focused on analyzing network activity and identifying potentially suspicious behavior.
+
+**Focus**
+
+`Artificial Intelligence` `Machine Learning` `Cybersecurity` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### Cybersecurity Practice
 
 Developing practical knowledge through authorized security labs and network analysis exercises.
